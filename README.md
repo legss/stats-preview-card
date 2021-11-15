@@ -7,7 +7,7 @@ Este mini-projeto, faz parte do meu treinamento para aprender os fundamentos par
 - [Visão Geral](#resumo)
   - [O desafio](#o-desafio)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Live Site](#live-site)
 - [Processo de criação](#processo-de-crição)
   - [O que foi usado?](#o-que-foi-usado?)
   - [O que eu aprendi](#o-que-eu-aprendi)
@@ -19,11 +19,15 @@ Este mini-projeto, faz parte do meu treinamento para aprender os fundamentos par
 
 ### O desafio
 
-Este projeto é resultado do [Order summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Os desafios do Frontend Mentor te ajudam a aprimorar suas habilidades de Front-end, com a construção de mini projetos reais.
+Este projeto é resultado do [Stats preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Os desafios do Frontend Mentor te ajudam a aprimorar suas habilidades de Front-end, com a construção de mini projetos reais.
 
 ### Screenshot
 
 ![](images/screenshot.jpg)
+
+### Live Site
+
+Caso quiser ver como ficou o mini-projeto, eu postei [aqui](https://legss.github.io/stats-preview-card/)
 
 ## Processo de criação
 
